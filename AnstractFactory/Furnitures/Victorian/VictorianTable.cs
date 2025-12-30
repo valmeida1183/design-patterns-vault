@@ -11,5 +11,4 @@ public class VictorianTable : ITable
     {
        return true;
     }   
-{
 }

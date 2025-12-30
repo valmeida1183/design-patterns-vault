@@ -11,5 +11,5 @@ public class VictorianSofa : ISofa
     {
         Console.WriteLine("Lying on a victorian sofa.");
     }
-{
+
 }

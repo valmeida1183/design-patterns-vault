@@ -11,5 +11,5 @@ public class PopArtSofa : ISofa
     {
         Console.WriteLine("Lying on a pop art sofa.");
     }
-{
+
 }

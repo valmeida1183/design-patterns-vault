@@ -11,5 +11,5 @@ public class VictorianChair : IChair
     {
         Console.WriteLine("Sitting on a victorian chair.");
     }
-{
+
 }

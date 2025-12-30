@@ -23,3 +23,5 @@ if (modeloAtribuido)
     var furnitureClient = new FurnitureClientContext(factory);
     furnitureClient.Run();
 }
+
+Console.ReadLine();
